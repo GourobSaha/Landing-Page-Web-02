@@ -1,0 +1,28 @@
+body {
+  background-color: #f3eaff;
+}
+header {
+  background-color: #562eff;
+}
+.navbar {
+  padding: 15px;
+}
+.navbar-brand {
+  font-style: normal;
+  font-weight: 450;
+  font-size: 24px;
+  line-height: 36px;
+}
+.navbar-brand img {
+  width: 40.41px;
+  margin-right: 15px;
+}
+.navbar-nav {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 200;
+  font-size: 16px;
+}
+.nav-link {
+  margin-right: 20px;
+}
