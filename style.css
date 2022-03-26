@@ -95,3 +95,22 @@ hr {
 .card img {
   padding: 10px;
 }
+
+.card-text {
+  color: #ed6b4f;
+}
+.card-img img {
+  width: 100px;
+  padding-bottom: 12px;
+}
+.card-img2 img {
+  padding-bottom: 30px;
+}
+.card-img p {
+  padding-top: 10px;
+  color: gray;
+}
+.card:hover {
+  box-shadow: 5px 5px 15px #787391;
+  transition: 0.3s;
+}
