@@ -30,6 +30,8 @@ header {
 .main {
   background-color: white;
   padding: 40px;
+  width: 1070px;
+  border-radius: 20px;
 }
 .main h3 {
   margin-bottom: 40px;
@@ -40,10 +42,14 @@ header {
   line-height: 36px;
   color: #562eff;
 }
+.leader-name {
+  margin-bottom: 25px;
+}
 .leader-name img {
   width: 56px;
   height: 56px;
   margin-right: 15px;
+  border-radius: 50%;
 }
 .leader-name h4 {
   font-family: "Poppins";
@@ -52,6 +58,28 @@ header {
   font-size: 18px;
   line-height: 27px;
 }
+.leader img:hover {
+  box-shadow: 5px 5px 15px #787391;
+  transition: 0.3s;
+}
+
 .leader {
   margin-bottom: 50px;
+}
+.blog-name img {
+  width: 200px;
+  border-radius: 15px;
+}
+.blog-name {
+  margin-bottom: 24px;
+}
+.b-detail {
+  margin-left: 15px;
+}
+.b-detail h6 {
+  color: #562eff;
+}
+.blog-name img:hover {
+  box-shadow: 5px 5px 15px #787391;
+  transition: 0.3s;
 }
